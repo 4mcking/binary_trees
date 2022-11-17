@@ -1,13 +1,11 @@
 # 0x1D. C - Binary trees
 
-This was a partner project in which we learned about the details, advantages,
-and disadvantages of using trees as data structures. We learned about how to
-qualify trees as well as how to traverse them. Throughout the project, we
-implemented binary, binary search, AVL, and Max Binary Heap trees.
+In this project, I learned about the details, advantages, and disadvantages of using trees as data structures. I learned about how to
+qualify trees as well as how to traverse them. Throughout the project, I implemented binary, binary search, AVL, and Max Binary Heap trees.
 
-Function Prototypes
+# Function Prototypes
 
-| File                             | Prototype (Description)                                                                               |
+| File                             | Prototype                                                                                             |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | `binary_trees.h`                 | Header file containing definitions and prototypes for all types and functions written for the project |
 | `binary_tree_print.c`            | `void binary_tree_print(const binary_tree_t *tree)`                                                   |
